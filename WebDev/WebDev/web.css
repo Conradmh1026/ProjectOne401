@@ -1,0 +1,141 @@
+html {
+    background: #000;
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 1.15;
+    display: block;
+}
+
+body {
+    height: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    overflow-x: hidden;
+    background: #fff;
+    margin: 0;
+    font-family: “Helvetica Neue”, “Helvetica”, “Roboto”, “Arial”, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    box-sizing: border-box;
+    display: block;
+}
+
+header {}
+
+.login-bar {
+    display: flex;
+    flex-wrap: wrap;
+    /*margin-left: -15px;
+    margin-right: -15px;*/
+    padding-left: 0;
+    margin-bottom: 0;
+    box-sizing: border-box;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #000;
+}
+
+#student-login {
+    position: relative;
+    padding: 0.75rem 0.39rem;
+    /*font-size: 0.56rem;*/
+    font-size: 0.75rem;
+    color: #fff;
+    white-space: nowrap;
+    text-decoration: none;
+    display: block;
+    letter-spacing: 0;
+}
+
+#login:link {
+    /*transition: color .2s ease-in;*/
+    text-decoration: none;
+}
+
+#login:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+#login:hover {
+    color: #c75300;
+    text-decoration: none;
+    transition: color .2s ease-in;
+}
+
+#login:active {
+    color: #727578;
+    text-decoration: none;
+}
+
+#career-services-header {
+    font-size: 2rem;
+    letter-spacing: -0.05rem;
+    line-height: 1;
+    color: #000;
+    font-weight: 700;
+    text-align: center;
+
+    margin-bottom: 0;
+    margin-top: 0;
+
+}
+
+#title-link:link{
+    text-decoration: none;
+    color: #000;
+    font-size: 36px;
+}
+
+#title-link:visited{
+    text-decoration: none;
+    color: #000;
+    font-size: 36px;
+}
+
+#title-link:hover{
+    text-decoration: none;
+    color: #000;
+    font-size: 36px;
+}
+
+#title-link:active{
+    text-decoration: none;
+    color: #000;
+    font-size: 36px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+#headerImage {
+    background-color: #F76902;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#headerText {
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+#login {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: right;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 5%;
+}
+*/
