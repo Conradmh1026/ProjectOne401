@@ -1,5 +1,5 @@
 html {
-    background: #000;
+    background: rgb(255, 255, 255);
     font-size: 16px;
     font-family: sans-serif;
     line-height: 1.15;
@@ -11,7 +11,7 @@ body {
     padding-left: 0;
     padding-right: 0;
     overflow-x: hidden;
-    background: #fff;
+
     margin: 0;
     font-family: “Helvetica Neue”, “Helvetica”, “Roboto”, “Arial”, sans-serif;
     font-size: 1rem;
@@ -44,6 +44,7 @@ header {}
     /*font-size: 0.56rem;*/
     font-size: 0.75rem;
     color: #fff;
+    background-color: #000;
     white-space: nowrap;
     text-decoration: none;
     display: block;
