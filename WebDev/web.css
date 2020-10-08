@@ -32,7 +32,50 @@ header {}
     padding-right: 25rem;
     padding-top: 15rem;
 }
+#CAD{
+    padding-top: 15rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+#student-login{
+    display: flex;
+    justify-content: space-evenly;
+}
 
+#submit{
+    background-color: #000;
+    color: white;
+    text-align: center;
+    padding: 15px 30px;
+    font-size: 16px;
+}
+
+#pContact{
+    display: flex;
+    justify-content: center;
+    padding-right: 40rem;
+    padding-left: 25rem;
+}
+
+#h2Info{
+    display: flex;
+    justify-content: center;
+    padding-right: 40rem;
+    padding-top: 0;
+    margin-top: 0;
+    font-size: 12mm;
+}
+#pInfo{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    padding-right: 50rem;
+}
+#loginForm{
+    display: flex;
+    justify-content: center;
+    
+}
 .login-bar {
     display: flex;
     flex-wrap: wrap;
